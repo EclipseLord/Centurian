@@ -1,0 +1,7 @@
+*.sym
+*.o
+*.cfg
+*.iso
+*.bin
+
+./out
